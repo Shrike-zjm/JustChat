@@ -2,4 +2,4 @@
 
 [Demo](http://shrike.site/JustChat/build/)   
 
-** 邀请码：物换星移几度秋 **
+**邀请码：物换星移几度秋**
